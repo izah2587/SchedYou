@@ -1,6 +1,4 @@
-Thank you for the clarification! Since the TimeAPI doesn’t require an API key, I’ll modify the **README** accordingly and remove the part about needing a key in the `.env` file.
 
----
 
 # SchedYouLater
 
